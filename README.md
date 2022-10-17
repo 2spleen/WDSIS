@@ -1,2 +1,2 @@
 # WDSIS
-Proof of concept internet connection montoring/alerting scripts using MongoDB
+Internet connection montoring/alerting scripts using MongoDB (primarily just a silly vehicle to experiment with MongoDB)
